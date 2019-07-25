@@ -1,0 +1,21 @@
+//#include <mmsystem.h>
+//#include <windows.h>
+
+
+in keyboard m switch add 
+
+     /*  if (playMusic)
+        {
+            playMusic = false;
+            PlaySound(0,0,0 );
+        }
+        else if (!playMusic)
+        {   playMusic = true;
+            PlaySound("background.wav",NULL, SND_LOOP | SND_ASYNC );
+        } */
+
+
+ /*  if (playMusic)
+    {
+        PlaySound("background.wav",NULL, SND_LOOP | SND_ASYNC );
+    } */

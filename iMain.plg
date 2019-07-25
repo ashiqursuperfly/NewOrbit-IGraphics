@@ -1,0 +1,46 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: iMain - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\hp\AppData\Local\Temp\RSP9318.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/iMain.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\Game Project\New Orbit on Visual C\iMain.cpp"
+]
+Creating command line "cl.exe @C:\Users\hp\AppData\Local\Temp\RSP9318.tmp" 
+Creating temporary file "C:\Users\hp\AppData\Local\Temp\RSP9319.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/iMain.pdb" /debug /machine:I386 /out:"Debug/iMain.exe" /pdbtype:sept 
+".\Debug\iMain.obj"
+]
+Creating command line "link.exe @C:\Users\hp\AppData\Local\Temp\RSP9319.tmp"
+<h3>Output Window</h3>
+Compiling...
+iMain.cpp
+f:\game project\new orbit on visual c\igraphics.h(104) : warning C4101: 'k' : unreferenced local variable
+f:\game project\new orbit on visual c\imain.cpp(411) : warning C4553: '==' : operator has no effect; did you intend '='?
+f:\game project\new orbit on visual c\imain.cpp(424) : warning C4553: '==' : operator has no effect; did you intend '='?
+f:\game project\new orbit on visual c\imain.cpp(437) : warning C4553: '==' : operator has no effect; did you intend '='?
+f:\game project\new orbit on visual c\imain.cpp(450) : warning C4553: '==' : operator has no effect; did you intend '='?
+f:\game project\new orbit on visual c\imain.cpp(463) : warning C4553: '==' : operator has no effect; did you intend '='?
+f:\game project\new orbit on visual c\imain.cpp(476) : warning C4553: '==' : operator has no effect; did you intend '='?
+f:\game project\new orbit on visual c\imain.cpp(489) : warning C4553: '==' : operator has no effect; did you intend '='?
+f:\game project\new orbit on visual c\imain.cpp(502) : warning C4553: '==' : operator has no effect; did you intend '='?
+f:\game project\new orbit on visual c\imain.cpp(515) : warning C4553: '==' : operator has no effect; did you intend '='?
+f:\game project\new orbit on visual c\imain.cpp(528) : warning C4553: '==' : operator has no effect; did you intend '='?
+f:\game project\new orbit on visual c\imain.cpp(1065) : warning C4101: 'j' : unreferenced local variable
+f:\game project\new orbit on visual c\imain.cpp(1262) : warning C4101: 'maxPlayers' : unreferenced local variable
+f:\game project\new orbit on visual c\imain.cpp(2957) : warning C4101: 'j' : unreferenced local variable
+Linking...
+
+
+
+<h3>Results</h3>
+iMain.exe - 0 error(s), 14 warning(s)
+</pre>
+</body>
+</html>

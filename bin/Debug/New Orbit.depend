@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1496563244 source:f:\game project\new orbit\imain.cpp
+	"iGraphics.h"
+	<time.h>
+	<mmsystem.h>
+	<windows.h>
+
+1496465340 f:\game project\new orbit\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1496511788 source:d:\new orbit - copy\imain.cpp
+	"iGraphics.h"
+	<time.h>
+	<mmsystem.h>
+	<windows.h>
+
+1496434960 d:\new orbit - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1496513509 source:f:\game project\new orbit - copy\imain.cpp
+	"iGraphics.h"
+	<time.h>
+	<mmsystem.h>
+	<windows.h>
+
+1496465340 f:\game project\new orbit - copy\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+

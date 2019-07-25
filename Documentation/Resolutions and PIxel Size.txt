@@ -1,0 +1,2 @@
+Enemy Size - 48 / 48
+Player Pixel - 80 * 80
